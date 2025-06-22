@@ -1,4 +1,4 @@
-**🛰️ **Real-Time Location Sharing App****
+********🛰️ **Real-Time Location Sharing App**********
 
 - This is a simple web application that allows users to share their live location and view others in real-time on a map. It uses:
 
@@ -35,6 +35,24 @@
 - Geolocation API
 
 
-****📸 Screenshots****
+********📸 Screenshots********
+
 ![image](https://github.com/user-attachments/assets/8ef137f1-877c-4ff9-8aa0-766eeda71e9e)
 
+![image](https://github.com/user-attachments/assets/2b4c2a7f-4d4c-4062-9306-6166a3431053)
+
+
+********🚀 How to Run ********
+
+****1. Clone this repo:****
+
+>> git clone https://github.com/your-username/real-time-location-app.git
+>> cd real-time-location-app
+
+****2. Install dependencies:****
+
+>> npm install
+
+****3. Start the server:****
+
+>> nodemon index.js
