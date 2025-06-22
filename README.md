@@ -10,7 +10,7 @@
 
 --- It's a good project to understand how real-time data works in web applications. 
 
-**🔧 What it Does ****
+********🔧 What it Does****** **
 
 - Shows the user’s live location on the map.
 
@@ -35,14 +35,14 @@
 - Geolocation API
 
 
-********📸 Screenshots********
+************📸 Screenshots************
 
 ![image](https://github.com/user-attachments/assets/8ef137f1-877c-4ff9-8aa0-766eeda71e9e)
 
 ![image](https://github.com/user-attachments/assets/2b4c2a7f-4d4c-4062-9306-6166a3431053)
 
 
-********🚀 How to Run ********
+**********🚀 ****How to Run****** ********
 
 ****1. Clone this repo:****
 
@@ -56,3 +56,5 @@
 ****3. Start the server:****
 
 >> nodemon index.js
+
+****4. Open http://localhost:9000 in your browser.****
